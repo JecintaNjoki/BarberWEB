@@ -1,0 +1,92 @@
+ body{
+    background-image:url(bacckgro.jpeg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+ }
+.list{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0%;
+    color:#d9480f;
+    
+}
+li{
+list-style: none;
+color:#d9480f;
+.about{
+    text-align: center;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-decoration-color: #12b886;
+    text-decoration-color: #d9480f;
+    color:#d9480f;
+    font-weight: bold;
+}
+
+}
+.information{
+    font-size: larger;
+    font-weight: bold;
+    
+}
+.container{
+    text-align: center;
+    text-decoration: solid;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    text-decoration-color: #12b886;
+    text-decoration-color: #d9480f;
+    color:#d9480f;
+    font-weight: bold;
+}
+button{
+    border-radius: 20px;
+    background-color: #d9480f;
+    padding: 20px;
+    
+
+}
+.containers{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 5px 0px;
+    margin-top: 5%;
+}
+/* .container{
+    display: flex;
+    align-content: space-between;
+} */
+.cont1{
+    width: auto;
+    height: 100px;
+}
+.cont2{
+    margin-left: 10%;
+
+}
+#heading{
+    color: blue;
+}
+/* body {
+    text-align: center;
+     
+} */
+#image{
+    float: left;
+    /* border-radius: 20px;
+    width: auto;
+    height: 650px; */
+}
+.form{
+    color: orangered;
+
+}
+.tables {
+    padding: 20px;
+    margin: 20px;
+}
